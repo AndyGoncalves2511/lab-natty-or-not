@@ -17,7 +17,7 @@ Prompt: In the Christmas landscape, the Weimaraner puppy is wearing a Christmas 
 
 Traduzido: Na paisagem de natal, o filhote de weimaraner está com gorro de natal, coberto de neve e usando um cachecol e tem uma placa com os dizeres 'Feliz Natal'
 
-Foto usada: 
+Foto usada: ![weimaraner filhote](caminho/para/a/imagem.extensão)
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
