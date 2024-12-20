@@ -21,7 +21,7 @@ Foto usada: ![weimaraner filhote](https://github.com/AndyGoncalves2511/Foto-weim
 
 
 ## 🚀 Resultados
-[Weimaraner natal 1](https://github.com/AndyGoncalves2511/Resultado-weimaraner-Natal/blob/6d2b16d88b4dfa8b49bb73f24f2ce665367cac9a/Resultado%20weimaraner%20natal%202.jpg)
+[Weimaraner natal 1]https://github.com/AndyGoncalves2511/Resultado-weimaraner-Natal/blob/main/Resultado%20weimaraner%20natal%201.jpg
 
 [Weimaraner natal 2](https://github.com/AndyGoncalves2511/Resultado-weimaraner-Natal/blob/6d2b16d88b4dfa8b49bb73f24f2ce665367cac9a/Resultado%20weimaraner%20natal%202.jpg)
 
